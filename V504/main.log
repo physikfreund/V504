@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.10.0 (TeX Live 2019)  (format=lualatex 2019.9.29)  30 JUL 2020 09:44
+This is LuaTeX, Version 1.10.0 (TeX Live 2019)  (format=lualatex 2019.9.29)  30 JUL 2020 13:04
  restricted system commands enabled.
 **main.tex
 (./main.tex
@@ -55,7 +55,7 @@ Lua module: luaotfload-multiscript 2019-09-13 3.00 luaotfload submodule / multis
 cript
 Inserting `luaotfload.rewrite_fontname' at position 5 in `luaotfload.patch_font'
 .
-luaotfload | main : initialization completed in 0.222 seconds
+luaotfload | main : initialization completed in 0.195 seconds
 (./header.tex
 (/usr/local/texlive/2019/texmf-dist/tex/latex/koma-script/scrartcl.cls
 Document Class: scrartcl 2019/02/01 v3.26b KOMA-Script document class (article)
@@ -1675,11 +1675,7 @@ Package biblatex Info: ... file 'german.lbx' found.
 (/usr/local/texlive/2019/texmf-dist/tex/latex/biblatex/lbx/german.lbx
 File: german.lbx 2019/08/31 v3.13a biblatex localization (PK/MW)
 ))
-(./main.aux
-
-LaTeX Warning: Label `eq:kenn1ergebnis' multiply defined.
-
-)
+(./main.aux)
 \openout1 = main.aux
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 11.
@@ -1849,18 +1845,18 @@ Package tocbasic Info: character protrusion at toc deactivated on input line 15.
 [2
 
 ] (./content/ziel.tex) (./content/theorie.tex
-<content/1.png, id=49, 850.17625pt x 361.35pt>
+<content/1.png, id=21, 850.17625pt x 361.35pt>
 File: content/1.png Graphic file (type png)
 <use content/1.png>
 Package luatex.def Info: content/1.png  used on input line 19.
 (luatex.def)             Requested size: 250.95587pt x 106.66348pt.
-<content/3.png, id=53, 986.68625pt x 475.7775pt>
+<content/3.png, id=25, 986.68625pt x 475.7775pt>
 File: content/3.png Graphic file (type png)
 <use content/3.png>
 Package luatex.def Info: content/3.png  used on input line 36.
 (luatex.def)             Requested size: 334.60571pt x 161.34839pt.
  [3<./content/1.png>]
-<content/6.png, id=69, 732.7375pt x 506.89375pt>
+<content/6.png, id=46, 732.7375pt x 506.89375pt>
 File: content/6.png Graphic file (type png)
 <use content/6.png>
 Package luatex.def Info: content/6.png  used on input line 56.
@@ -1875,61 +1871,80 @@ Underfull \hbox (badness 10000) in paragraph at lines 78--1
 
  []
 
-<content/7.png, id=85, 762.85pt x 609.27625pt>
+<content/7.png, id=63, 762.85pt x 609.27625pt>
 File: content/7.png Graphic file (type png)
 <use content/7.png>
 Package luatex.def Info: content/7.png  used on input line 9.
 (luatex.def)             Requested size: 334.60571pt x 267.24565pt.
 [5]
-<content/8.png, id=97, 957.5775pt x 439.6425pt>
+<content/8.png, id=76, 957.5775pt x 439.6425pt>
 File: content/8.png Graphic file (type png)
 <use content/8.png>
 Package luatex.def Info: content/8.png  used on input line 22.
 (luatex.def)             Requested size: 334.60571pt x 153.62225pt.
- [6<./content/7.png>]) (./content/auswertung.tex
-<build/Kennlinie1.pdf, id=108, 578.16pt x 433.62pt>
+ [6<./content/7.png>]) (./content/auswertung.tex [7<./content/8.png>]
+LaTeX Font Info:    Font shape `TU/LatinModernMath(2)/m/n' will be
+(Font)              scaled to size 5.00053pt on input line 13.
+LaTeX Font Info:    Font shape `TU/LatinModernMath(3)/m/n' will be
+(Font)              scaled to size 4.99947pt on input line 13.
+<build/Kennlinie1.pdf, id=93, 578.16pt x 433.62pt>
 File: build/Kennlinie1.pdf Graphic file (type pdf)
 <use build/Kennlinie1.pdf>
-Package luatex.def Info: build/Kennlinie1.pdf  used on input line 10.
+Package luatex.def Info: build/Kennlinie1.pdf  used on input line 37.
 (luatex.def)             Requested size: 376.42744pt x 282.31943pt.
- [7<./content/8.png>]
-<build/Kennlinie2.pdf, id=118, 578.16pt x 433.62pt>
+
+[8
+
+]
+<build/Kennlinie2.pdf, id=104, 578.16pt x 433.62pt>
 File: build/Kennlinie2.pdf Graphic file (type pdf)
 <use build/Kennlinie2.pdf>
-Package luatex.def Info: build/Kennlinie2.pdf  used on input line 23.
+Package luatex.def Info: build/Kennlinie2.pdf  used on input line 72.
 (luatex.def)             Requested size: 334.60571pt x 250.9506pt.
-
-[8<./build/Kennlinie1.pdf>]
-<build/Kennlinie4.pdf, id=146, 578.16pt x 433.62pt>
+ [9<./build/Kennlinie1.pdf>]
+<build/Kennlinie4.pdf, id=133, 578.16pt x 433.62pt>
 File: build/Kennlinie4.pdf Graphic file (type pdf)
 <use build/Kennlinie4.pdf>
-Package luatex.def Info: build/Kennlinie4.pdf  used on input line 36.
+Package luatex.def Info: build/Kennlinie4.pdf  used on input line 113.
 (luatex.def)             Requested size: 334.60571pt x 250.9506pt.
- [9<./build/Kennlinie2.pdf>]
-<build/Kennlinie3.pdf, id=179, 578.16pt x 433.62pt>
+ [10<./build/Kennlinie2.pdf>] [11<./build/Kennlinie4.pdf>]
+<build/Kennlinie3.pdf, id=191, 578.16pt x 433.62pt>
 File: build/Kennlinie3.pdf Graphic file (type pdf)
 <use build/Kennlinie3.pdf>
-Package luatex.def Info: build/Kennlinie3.pdf  used on input line 56.
+Package luatex.def Info: build/Kennlinie3.pdf  used on input line 133.
 (luatex.def)             Requested size: 376.42744pt x 282.31943pt.
- [10<./build/Kennlinie4.pdf>]
-Underfull \hbox (badness 10000) in paragraph at lines 70--78
+ [12<./build/Kennlinie3.pdf>]) (./content/diskussion.tex
 
- []
+LaTeX Warning: Reference `subsec:d' on page 13 undefined on input line 5.
 
-) (./content/diskussion.tex [11<./build/Kennlinie3.pdf>])
+) [13]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 27.
- [12]
+ [14]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 27.
  (./main.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 27.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 27.
-Package rerunfilecheck Info: File `main.aux' has not changed.
-(rerunfilecheck)             Checksum: 3EF9B988009B875EEE3F1B6F5B907F8B;12932.
-Package rerunfilecheck Info: File `main.toc' has not changed.
-(rerunfilecheck)             Checksum: 66D513DD8610F8A9B831F43CAA0F423F;1175.
 
 
-LaTeX Warning: There were multiply-defined labels.
+Package rerunfilecheck Warning: File `main.aux' has changed. Rerun.
+
+Package rerunfilecheck Info: Checksums for `main.aux':
+(rerunfilecheck)             Before: EC4744A31D44FC4311A196FCA852F86C;12101
+(rerunfilecheck)             After:  4223742540F38D18EFBA592F5226C1DB;14266.
+
+Package rerunfilecheck Warning: File `main.toc' has changed. Rerun.
+
+Package rerunfilecheck Info: Checksums for `main.toc':
+(rerunfilecheck)             Before: D41D8CD98F00B204E9800998ECF8427E;0
+(rerunfilecheck)             After:  24B9259A947C88853398D91C7C5F2413;1175.
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+
+Package biblatex Warning: Please rerun LaTeX.
 
 Package logreq Info: Writing requests to 'main.run.xml'.
 
@@ -1937,15 +1952,15 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 )
 
 Here is how much of LuaTeX's memory you used:
- 43753 strings out of 494291
+ 43799 strings out of 494291
  100000,1977958 words of node,token memory allocated
- 762 words of node memory still in use:
-   7 hlist, 2 vlist, 2 rule, 1 dir, 2 glue, 4 kern, 1 glyph, 44 attribute, 80 gl
-ue_spec, 24 attribute_list, 1 write, 2 pdf_action nodes
-   avail lists: 1:3,2:667,3:139,4:29,5:173,6:29,7:2518,8:70,9:121,10:12,11:242
- 46814 multiletter control sequences out of 65536+600000
- 106 fonts using 37878103 bytes
- 57i,7n,109p,9101b,2933s stack positions out of 5000i,500n,10000p,200000b,100000s
+ 765 words of node memory still in use:
+   7 hlist, 2 vlist, 2 rule, 1 dir, 2 glue, 4 kern, 1 glyph, 50 attribute, 77 gl
+ue_spec, 27 attribute_list, 1 write, 2 pdf_action nodes
+   avail lists: 1:3,2:727,3:108,4:26,5:173,6:25,7:2059,8:62,9:258,10:12,11:221
+ 46840 multiletter control sequences out of 65536+600000
+ 118 fonts using 42353651 bytes
+ 57i,9n,109p,9101b,2933s stack positions out of 5000i,500n,10000p,200000b,100000s
 </usr/local/texlive/2019/texmf-dist/fonts/opentype/public/lm/lmmono10-regular.ot
 f></usr/local/texlive/2019/texmf-dist/fonts/opentype/public/lm/lmromancaps10-reg
 ular.otf></usr/local/texlive/2019/texmf-dist/fonts/opentype/public/xits/XITSMath
@@ -1960,10 +1975,10 @@ opentype/public/lm/lmroman10-regular.otf></usr/local/texlive/2019/texmf-dist/fon
 ts/opentype/public/lm/lmroman12-regular.otf></usr/local/texlive/2019/texmf-dist/
 fonts/opentype/public/lm/lmsans10-bold.otf></usr/local/texlive/2019/texmf-dist/f
 onts/opentype/public/lm/lmroman12-bold.otf>
-Output written on main.pdf (12 pages, 310424 bytes).
+Output written on main.pdf (14 pages, 313998 bytes).
 
-PDF statistics: 397 PDF objects out of 1000 (max. 8388607)
- 291 compressed objects within 3 object streams
- 49 named destinations out of 1000 (max. 131072)
+PDF statistics: 391 PDF objects out of 1000 (max. 8388607)
+ 283 compressed objects within 3 object streams
+ 57 named destinations out of 1000 (max. 131072)
  105 words of extra memory for PDF output out of 10000 (max. 100000000)
 
